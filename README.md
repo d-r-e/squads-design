@@ -3,6 +3,7 @@
 ![coa](coa.jpg)
 ![black.jpg](black-wide.jpg)
 Design for Squads Logo - October 2020, Madrid. David Rodríguez Elipe
+![coa](logo-coa.jpg)
 ![squads-coa.jpg](Squads-coa.jpg)
 
 <p float="center">
